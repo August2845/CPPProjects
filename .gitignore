@@ -1,0 +1,11 @@
+# Visual Studio
+*.suo
+*.user
+*.sln.docstates
+Debug/
+Release/
+x64/
+*.exe
+*.pdb
+*.ilk
+.vs/
